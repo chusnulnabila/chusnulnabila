@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chusnulnabila&label=Profile%20views&color=0e75b6&style=flat" alt="chusnulnabila" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, Web Development, React, Go,**
+- 🌱 I’m currently learning **JavaScript, Web Development, React, SurrealDB, linux, docker, AWS.**
 
 - 📫 How to reach me **chusnulnab@gmail.com**
 
